@@ -1,0 +1,42 @@
+/*
+       选择器{
+       样式1：值；
+       样式2:值；
+       样式3：值；
+       }
+*/
+
+body{
+    background-color:#ed683f;
+    color:#fff;
+    font-size: 50px;
+    font-family: ‘黑体’;
+    font-weight:bolder;
+    font-style: italic;
+    text-decoration: blink;
+}
+
+.fs20{font-size: 20px}
+
+
+/*元素选择器*/
+i{
+    color:red;
+}
+
+/*id选择器*/
+#a{
+    font-size: 50px;
+}
+
+.red{
+    color:red;
+    font-size: 50px;
+    background-color: aquamarine;
+}
+
+
+
+
+
+
